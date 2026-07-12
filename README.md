@@ -35,22 +35,28 @@
 ### 👨‍💻 About Me
 
 * 🌍 I'm based in **India**
-* 🖥️ Check out my **[Portfolio](https://vignesh-s-001.github.io/Personal-Portfolio/)** (built with React & GSAP)
-* 🧠 I'm currently focused on **React, Animations, and Frontend Development**
-* 🤝 I'm open to collaborating on **Open Source Web Projects**
+* 🖥️ Check out my **[Portfolio](https://vignesh-s-001.github.io/Personal-Portfolio/)** 
+* 🧠 I'm currently focused on **Frontend, Backend, DevOps, and AI Development**
+* 🤝 I'm open to collaborating on **Web Apps, SaaS Products, and Mobile Applications**
+* ⚡ Fun fact: **I love building end-to-end solutions from design to deployment!**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,vite,html,css" alt="Javascript, React, Vite, HTML, CSS" />
+  <!-- Frontend & Design -->
+  <img src="https://skillicons.dev/icons?i=js,react,vite,html,css,tailwind" alt="Frontend" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git, GitHub, VSCode, NPM" />
+  <!-- Backend, Database & AI (Python) -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" alt="Backend and AI" />
+  <br/>
+  <br/>
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" alt="DevOps and Tools" />
 </div>
 
----
 
 ### 📊 GitHub Analytics
 
