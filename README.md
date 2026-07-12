@@ -61,17 +61,20 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vignesh-s-001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <!-- Using a backup instance url for stats -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vignesh-s-001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  
+  <!-- Streak stats (usually works fine) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-s-001&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-s-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- Using a backup instance url for languages -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vignesh-s-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
----
 
 ### 🐍 Contribution Graph Snake
 
