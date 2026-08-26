@@ -35,7 +35,7 @@
 ### 👨‍💻 About Me
 
 * 🌍 I'm based in **India**
-* 🖥️ Check out my **[Portfolio](https://vignesh-s-001.github.io/Personal-Portfolio/)** 
+* 🖥️ Check out my **[Portfolio](https://personal-portfolio-vickys-world.vercel.app/)** 
 * 🧠 I'm currently focused on **Frontend, Backend, DevOps, and AI Development**
 * 🤝 I'm open to collaborating on **Web Apps, SaaS Products, and Mobile Applications**
 * ⚡ Fun fact: **I love building end-to-end solutions from design to deployment!**
