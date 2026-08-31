@@ -1,4 +1,3 @@
-
 <!-- Header Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/7wq/7wq/main/header.gif" alt="Header Matrix Animation" width="100%"/>
@@ -9,7 +8,10 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%AB%A3+I'm+VIGNESH+SANKAR;Software+Engineer+%F0%9F%92%BB;Welcome+to+my+GitHub+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%AB%A3+I'm+VIGNESH+SANKAR;Software+Engineer+%F0%9F%92%BB;Welcome+to+my+GitHub+profile!+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
@@ -23,15 +25,24 @@
 <div align="center">
 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="https://personal-portfolio-vickys-world.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+    <img
+      src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 
   <a href="https://buymeacoffee.com/sun_god_vicky">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+    <img
+      src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+      alt="Buy Me a Coffee"
+    />
   </a>
 
 </div>
@@ -40,12 +51,12 @@
 
 ### 👨‍💻 About Me
 
-* 🌍 I'm based in **India**
-* 🖥️ Check out my **[Portfolio](https://personal-portfolio-vickys-world.vercel.app/)**
-* 🧠 I'm currently focused on **Frontend, Backend, DevOps, and AI Development**
-* 🤝 I'm open to collaborating on **Web Apps, SaaS Products, and Mobile Applications**
-* ☕ If you like my projects, you can **[Buy Me a Coffee](https://buymeacoffee.com/sun_god_vicky)**
-* ⚡ Fun fact: **I love building end-to-end solutions from design to deployment!**
+- 🌍 I'm based in **India**
+- 🖥️ Check out my **[Portfolio](https://personal-portfolio-vickys-world.vercel.app/)**
+- 🧠 I'm currently focused on **Frontend, Backend, DevOps, and AI Development**
+- 🤝 I'm open to collaborating on **Web Apps, SaaS Products, and Mobile Applications**
+- ☕ If you like my projects, you can **[Buy Me a Coffee](https://buymeacoffee.com/sun_god_vicky)**
+- ⚡ Fun fact: **I love building end-to-end solutions from design to deployment!**
 
 ---
 
@@ -54,19 +65,28 @@
 <div align="center">
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=js,react,vite,html,css,tailwind" alt="Frontend" />
+  <img
+    src="https://skillicons.dev/icons?i=js,react,vite,html,css,tailwind"
+    alt="Frontend Technologies"
+  />
 
   <br/>
   <br/>
 
-  <!-- Backend, Database & AI -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" alt="Backend and AI" />
+  <!-- Backend & Database -->
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python"
+    alt="Backend and Database Technologies"
+  />
 
   <br/>
   <br/>
 
   <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" alt="DevOps and Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode"
+    alt="DevOps and Development Tools"
+  />
 
 </div>
 
@@ -77,10 +97,19 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vignesh-s-001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=vignesh-s-001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="GitHub Stats"
+  />
+
+  <br/>
+  <br/>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-s-001&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-s-001&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+  />
 
 </div>
 
@@ -89,7 +118,10 @@
 <div align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vignesh-s-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vignesh-s-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="Top Languages"
+  />
 
 </div>
 
@@ -99,32 +131,24 @@
 
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake.svg"
-    />
-
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 
 </div>
 
 <br/>
 
+---
+
 <!-- Footer -->
 <div align="center">
+
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=120&section=footer"
     width="100%"
+    alt="Footer"
   />
+
 </div>
