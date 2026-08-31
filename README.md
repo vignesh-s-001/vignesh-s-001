@@ -1,3 +1,4 @@
+
 <!-- Header Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/7wq/7wq/main/header.gif" alt="Header Matrix Animation" width="100%"/>
@@ -18,16 +19,21 @@
 
 <br/>
 
+<!-- Social Badges -->
 <div align="center">
-  
-  <!-- Social Badges (Update these links with your actual URLs if you have them) -->
+
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://personal-portfolio-vickys-world.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
-  
+
+  <a href="https://buymeacoffee.com/sun_god_vicky">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+
 </div>
 
 ---
@@ -35,9 +41,10 @@
 ### 👨‍💻 About Me
 
 * 🌍 I'm based in **India**
-* 🖥️ Check out my **[Portfolio](https://personal-portfolio-vickys-world.vercel.app/)** 
+* 🖥️ Check out my **[Portfolio](https://personal-portfolio-vickys-world.vercel.app/)**
 * 🧠 I'm currently focused on **Frontend, Backend, DevOps, and AI Development**
 * 🤝 I'm open to collaborating on **Web Apps, SaaS Products, and Mobile Applications**
+* ☕ If you like my projects, you can **[Buy Me a Coffee](https://buymeacoffee.com/sun_god_vicky)**
 * ⚡ Fun fact: **I love building end-to-end solutions from design to deployment!**
 
 ---
@@ -45,49 +52,79 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Frontend & Design -->
+
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=js,react,vite,html,css,tailwind" alt="Frontend" />
+
   <br/>
   <br/>
-  <!-- Backend, Database & AI (Python) -->
+
+  <!-- Backend, Database & AI -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" alt="Backend and AI" />
+
   <br/>
   <br/>
+
   <!-- DevOps & Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" alt="DevOps and Tools" />
+
 </div>
 
+---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Using a backup instance url for stats -->
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vignesh-s-001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  
-  <!-- Streak stats (usually works fine) -->
+
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-s-001&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Using a backup instance url for languages -->
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vignesh-s-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
 </div>
 
+---
 
 ### 🐍 Contribution Graph Snake
 
 <div align="center">
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/vignesh-s-001/vignesh-s-001/output/github-contribution-grid-snake.svg"
+    />
+
   </picture>
+
 </div>
 
 <br/>
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=120&section=footer" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=120&section=footer"
+    width="100%"
+  />
 </div>
